@@ -3,9 +3,3 @@ node_modules/
 coverage/
 *.log
 git.json
-# Performance (generated files):
-performance/**/config.scala
-performance/**/*.json
-!performance/**/test-parameters.json
-performance/**/*.csv
-performance_results/
