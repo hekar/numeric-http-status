@@ -1,5 +1,7 @@
 # numeric-http-status
 
+[![npm version](https://badge.fury.io/js/numeric-http-status.svg)](https://badge.fury.io/js/numeric-http-status)
+
 HTTP status code constants with their numeric value in the key.
 
 Based on https://github.com/wdavidw/node-http-status
